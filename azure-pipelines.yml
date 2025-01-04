@@ -7,7 +7,7 @@
 trigger:
 - main
 
-pool: TestAgent
+pool: jems
 
 steps:
 - task: Maven@4
